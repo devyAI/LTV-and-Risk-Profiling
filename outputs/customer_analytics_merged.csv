@@ -1,0 +1,51 @@
+customer_id,name,age,email,city,registration_date,customer_tenure_days,total_policies,active_policies,avg_annual_premium,total_coverage,policy_types,policy_ids,total_claims,total_claimed_amount,avg_claim_amount,fraud_detected,detection_count,avg_confidence,claims_per_policy,fraud_rate
+1,Kenneth Davis,56,customer1@email.com,New York,2023-12-30,588,1.0,1.0,4598.76,118547.63,{'HEALTH': 1},[256],1.0,29430.41,29430.41,,0.0,0.0,1.0,0.0
+2,Deborah Moore,46,customer2@email.com,Los Angeles,2023-07-18,753,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
+3,Joseph Rodriguez,60,customer3@email.com,Philadelphia,2022-12-31,952,1.0,1.0,5543.19,121194.54,{'BUSINESS': 1},[257],1.0,23396.02,23396.02,,0.0,0.0,1.0,0.0
+4,Michael Baker,38,customer4@email.com,Philadelphia,2020-05-01,1926,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
+5,Paul Garcia,36,customer5@email.com,Phoenix,2023-05-23,809,2.0,0.0,4145.4349999999995,130005.45,"{'LIFE': 1, 'BUSINESS': 1}","[259, 261]",3.0,43622.79,12142.365000000002,False,0.0,0.0,1.5,0.0
+6,Helen Williams,28,customer6@email.com,New York,2020-03-28,1960,2.0,2.0,3863.2749999999996,226691.15,"{'BUSINESS': 1, 'HEALTH': 1}","[211, 221]",3.0,44645.06,19489.23,False,0.0,0.0,1.5,0.0
+7,Jennifer Wilson,70,customer7@email.com,Los Angeles,2023-01-28,924,1.0,1.0,1008.73,33545.45,{'HOME': 1},[245],0.0,0.0,0.0,,0.0,0.0,0.0,
+8,Steven Hill,57,customer8@email.com,New York,2020-05-10,1917,1.0,1.0,7156.02,183797.65,{'BUSINESS': 1},[229],1.0,40902.59,40902.59,,0.0,0.0,1.0,0.0
+9,Ruth Gonzales,39,customer9@email.com,Philadelphia,2023-08-25,715,2.0,1.0,1189.1100000000001,90854.11,{'AUTO': 2},"[213, 227]",5.0,21568.510000000002,4152.556250000001,False,0.0,0.0,2.5,0.0
+10,Laura Hall,19,customer10@email.com,Phoenix,2020-12-09,1704,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
+11,Anthony Anderson,61,customer11@email.com,Houston,2023-12-08,610,1.0,1.0,5823.2,72694.7,{'BUSINESS': 1},[224],2.0,14521.27,7260.635,False,0.0,0.0,2.0,0.0
+12,Sharon Moore,55,customer12@email.com,New York,2021-01-20,1662,1.0,1.0,964.3,13545.42,{'HOME': 1},[254],1.0,3311.92,3311.92,,0.0,0.0,1.0,0.0
+13,Timothy Hernandez,38,customer13@email.com,Philadelphia,2023-03-30,863,1.0,1.0,1814.59,50180.73,{'LIFE': 1},[266],2.0,21126.4,10563.2,False,0.0,0.0,2.0,0.0
+14,Helen Perez,29,customer14@email.com,Chicago,2023-08-30,710,1.0,1.0,693.14,31887.72,{'HOME': 1},[232],4.0,33359.58,8339.895,False,0.0,0.0,4.0,0.0
+15,Elizabeth Wilson,39,customer15@email.com,Chicago,2020-09-09,1795,1.0,1.0,2566.34,82720.38,{'HEALTH': 1},[208],7.0,98945.18,14135.025714285714,False,0.0,0.0,7.0,0.0
+16,Michael Garcia,61,customer16@email.com,Houston,2022-05-06,1191,1.0,1.0,1076.36,8848.36,{'HOME': 1},[263],3.0,3970.4,1323.4666666666667,False,0.0,0.0,3.0,0.0
+17,Michael Thompson,66,customer17@email.com,Chicago,2021-04-19,1573,1.0,0.0,4190.79,74133.98,{'HEALTH': 1},[219],0.0,0.0,0.0,,0.0,0.0,0.0,
+18,Joshua Taylor,59,customer18@email.com,New York,2021-11-30,1348,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
+19,George Robinson,33,customer19@email.com,Phoenix,2020-07-08,1858,2.0,2.0,1200.73,78183.1,{'AUTO': 2},"[222, 275]",6.0,28408.11,4762.82,False,0.0,0.0,3.0,0.0
+20,Linda Harris,64,customer20@email.com,New York,2022-08-15,1090,1.0,1.0,6526.42,127633.99,{'BUSINESS': 1},[264],0.0,0.0,0.0,,0.0,0.0,0.0,
+21,Ruth Jackson,68,customer21@email.com,Philadelphia,2023-06-21,780,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
+22,Michelle White,74,customer22@email.com,Phoenix,2023-02-28,893,3.0,1.0,2836.1766666666667,78188.84000000001,"{'HOME': 2, 'BUSINESS': 1}","[220, 248, 274]",3.0,7293.51,2164.435,False,0.0,0.0,1.0,0.0
+23,Richard Rivera,54,customer23@email.com,New York,2021-10-08,1401,3.0,3.0,3485.1,266421.33999999997,{'HEALTH': 3},"[205, 240, 267]",2.0,23639.32,11819.66,,0.0,0.0,0.6666666666666666,0.0
+24,John Nelson,38,customer24@email.com,Los Angeles,2022-04-20,1207,1.0,1.0,2004.51,91021.61,{'LIFE': 1},[228],3.0,61630.479999999996,20543.493333333332,False,0.0,0.0,3.0,0.0
+25,Dorothy Jackson,56,customer25@email.com,New York,2023-07-21,750,1.0,1.0,6790.51,51012.32,{'BUSINESS': 1},[230],2.0,11169.029999999999,5584.514999999999,False,0.0,0.0,2.0,0.0
+26,Joseph Miller,21,customer26@email.com,Houston,2021-08-23,1447,3.0,3.0,3298.2333333333336,419504.6,"{'BUSINESS': 2, 'LIFE': 1}","[207, 243, 253]",7.0,248758.88,31281.571111111112,,0.0,0.0,2.3333333333333335,0.0
+27,Sarah Robinson,31,customer27@email.com,Philadelphia,2020-08-29,1806,2.0,1.0,2229.065,127215.93,"{'HEALTH': 1, 'AUTO': 1}","[206, 212]",2.0,25086.530000000002,12543.265000000001,False,0.0,0.0,1.0,0.0
+28,Lisa Hernandez,26,customer28@email.com,Chicago,2023-10-01,678,1.0,1.0,1330.08,41918.31,{'AUTO': 1},[204],0.0,0.0,0.0,,0.0,0.0,0.0,
+29,Daniel Wilson,70,customer29@email.com,Philadelphia,2022-06-16,1150,3.0,2.0,1417.5233333333333,73440.17,"{'HOME': 2, 'LIFE': 1}","[201, 244, 258]",5.0,20350.73,3599.59,False,0.0,0.0,1.6666666666666667,0.0
+30,Sarah Hall,37,customer30@email.com,Philadelphia,2020-04-01,1956,2.0,1.0,4411.855,290276.4,"{'BUSINESS': 1, 'HEALTH': 1}","[235, 251]",1.0,5720.7,5720.7,,0.0,0.0,0.5,0.0
+31,Laura Jones,64,customer31@email.com,Phoenix,2022-08-13,1092,1.0,1.0,1759.83,56640.81,{'AUTO': 1},[241],3.0,36798.19,12266.063333333334,False,0.0,0.0,3.0,0.0
+32,Kenneth Hernandez,24,customer32@email.com,Phoenix,2023-12-22,596,7.0,4.0,2644.8185714285714,537602.89,"{'BUSINESS': 2, 'AUTO': 2, 'LIFE': 1, 'HOME': 1, 'HEALTH': 1}","[209, 214, 218, 242, 255, 262, 272]",11.0,185498.95,20676.435555555556,False,0.0,0.0,1.5714285714285714,0.0
+33,George Thomas,25,customer33@email.com,Los Angeles,2020-02-04,2013,1.0,1.0,1206.55,44673.86,{'AUTO': 1},[217],2.0,23448.41,11724.205,True,1.0,0.88,2.0,0.5
+34,Sandra Harris,31,customer34@email.com,Chicago,2023-01-09,943,2.0,2.0,1269.14,86187.95999999999,"{'HOME': 1, 'LIFE': 1}","[247, 268]",1.0,7962.13,7962.13,,0.0,0.0,0.5,0.0
+35,Kenneth Hall,53,customer35@email.com,Phoenix,2023-11-12,636,4.0,4.0,3728.465,180655.41999999998,"{'BUSINESS': 1, 'HOME': 1, 'LIFE': 1, 'HEALTH': 1}","[203, 231, 239, 271]",8.0,47813.2,6455.1925,False,0.0,0.0,2.0,0.0
+36,Joseph Baker,19,customer36@email.com,Chicago,2022-10-18,1026,2.0,2.0,3994.47,336893.28,{'BUSINESS': 2},"[260, 270]",5.0,102415.25,21383.279166666667,True,2.0,0.16666666666666666,2.5,0.4
+37,Dorothy Roberts,23,customer37@email.com,New York,2021-07-19,1482,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
+38,Joseph Williams,59,customer38@email.com,Chicago,2021-12-03,1345,1.0,0.0,1237.87,23575.75,{'HOME': 1},[234],3.0,15471.06,5157.0199999999995,False,0.0,0.0,3.0,0.0
+39,Betty Moore,35,customer39@email.com,New York,2021-12-30,1318,1.0,1.0,2097.25,44070.26,{'LIFE': 1},[215],0.0,0.0,0.0,,0.0,0.0,0.0,
+40,Susan Torres,61,customer40@email.com,Philadelphia,2020-06-10,1886,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
+41,Charles Wilson,27,customer41@email.com,Philadelphia,2022-09-22,1052,3.0,0.0,2839.41,192187.37,"{'LIFE': 1, 'BUSINESS': 1, 'HOME': 1}","[223, 238, 273]",3.0,10995.78,3153.3,False,0.0,0.0,1.0,0.0
+42,Donna Sanchez,31,customer42@email.com,Philadelphia,2022-03-26,1232,2.0,1.0,948.4749999999999,79288.43000000001,"{'HOME': 1, 'AUTO': 1}","[225, 252]",7.0,36112.96,5405.004166666667,False,0.0,0.0,3.5,0.0
+43,Sandra Martinez,32,customer43@email.com,Chicago,2021-03-31,1592,3.0,3.0,1285.2966666666666,152851.25,"{'LIFE': 1, 'AUTO': 1, 'HOME': 1}","[210, 249, 265]",5.0,79532.66,10175.886666666667,False,0.0,0.0,1.6666666666666667,0.0
+44,William Thomas,31,customer44@email.com,Philadelphia,2023-06-29,772,3.0,2.0,1899.4133333333332,105574.83,"{'AUTO': 2, 'HEALTH': 1}","[202, 237, 250]",3.0,18001.08,6000.360000000001,False,0.0,0.0,1.0,0.0
+45,Ruth Wright,74,customer45@email.com,Chicago,2020-10-22,1752,1.0,0.0,4565.97,34702.36,{'HEALTH': 1},[269],1.0,10109.32,10109.32,,0.0,0.0,1.0,0.0
+46,Deborah Nguyen,38,customer46@email.com,Houston,2021-12-20,1328,1.0,1.0,1437.48,54720.26,{'AUTO': 1},[246],1.0,10456.46,10456.46,,0.0,0.0,1.0,0.0
+47,Sharon Sanchez,62,customer47@email.com,Chicago,2020-12-03,1710,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
+48,Joseph Rodriguez,64,customer48@email.com,Phoenix,2022-12-12,971,2.0,2.0,3837.365,104280.45000000001,"{'LIFE': 1, 'BUSINESS': 1}","[233, 236]",2.0,20475.35,10237.675,,0.0,0.0,1.0,0.0
+49,Donna Garcia,41,customer49@email.com,New York,2020-08-04,1831,2.0,1.0,3590.62,121503.51000000001,"{'LIFE': 1, 'BUSINESS': 1}","[216, 226]",1.0,4404.44,4404.44,,0.0,0.0,0.5,0.0
+50,Linda Martinez,62,customer50@email.com,Philadelphia,2022-11-30,983,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,0.0,,
